@@ -1,0 +1,36 @@
+task 16
+
+find all renaults ('renault') in the database
+for each, report the name and the year.
+sort output by year.
+
+
+task 17
+
+find all cars produced by volvo betwwen 1977 and 1981( inclusive).
+report the name of the car and the year it was produced.
+sort output in ascending order by the year.
+
+
+task 18
+
+find all non cylinder cars produced in 1980 that have a better fuel economy
+than 20 MPG and that accelerate to 60mph faster than in 15seconds.
+report the name of the car and the name of the automaker.
+
+
+task 19
+
+report all vehicles with acceleration greater than 11
+for each vehicle , reports its full name and the year of production and sort the 
+produciton year and secondary sort it by horsepower/.
+
+task 20
+find the most fuel-efficient 8-cylinder model.
+report the full name of the car , the yeaR IT WAS PRODUCED.
+
+TASK 21 
+find all car names with at least one light ( weight less than 2000lbs)
+car between 1979 and 1981 (inclusively).
+output the full name of the company and 
+each company should be reported just once s 

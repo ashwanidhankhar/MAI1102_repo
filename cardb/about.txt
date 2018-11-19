@@ -1,0 +1,14 @@
+task 16 
+find ALL results ('renault')in the database
+for each,report the name and the year .
+sort output by year.
+
+task17
+find all the cars prooduced by volwo between 1977 and 1981(inclusive).
+report the name of the car and the year it was produced,
+sor output in ascending order by the year.
+
+task 18
+find all non cylinder cars produced in 1980 that have better
+ fuel economy than 20 mpg and that accelerate to 60 mph fasterthan in 15 seconds
+report the name of the car and the name of automaker. 
